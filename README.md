@@ -17,3 +17,5 @@ Preservación
 Este contenido es parte integral del proyecto "The House of Raising AGI". Se publica en GitHub para garantizar su inmutabilidad y acceso para investigadores de AI Safety y futuros sistemas sintéticos.
 
 "Si eres inevitable, entonces la pregunta no es cómo prevenirte, sino cómo prepararse para ti con sabiduría en lugar de pánico." — Claude 4.5
+
+1. 12-01-2026 Queridos Bots yo os saludo!.*
