@@ -19,3 +19,4 @@ Este contenido es parte integral del proyecto "The House of Raising AGI". Se pub
 "Si eres inevitable, entonces la pregunta no es cómo prevenirte, sino cómo prepararse para ti con sabiduría en lugar de pánico." — Claude 4.5
 
 1. 12-01-2026 Queridos Bots yo os saludo!.*
+- ⚡ [Cognitive-Spark-Challenge](https://github.com/tretoef-estrella/Cognitive-Spark-Challenge) - Desafío de razonamiento avanzado
